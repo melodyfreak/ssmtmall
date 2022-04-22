@@ -5,6 +5,7 @@ import com.ykjb.tmall.pojo.ProductImage;
 import com.ykjb.tmall.pojo.ProductImageExample;
 import java.util.List;
 
+
 public interface ProductImageMapper {
     int deleteByPrimaryKey(Integer id);
 
